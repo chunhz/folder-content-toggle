@@ -5,7 +5,6 @@ import './App.css';
 class App extends Component {
   render() {
     return <div>
-      {/* <Folder visible = {true}/> */}
       <FolderContent visible = {true}/>
     </div>
     
